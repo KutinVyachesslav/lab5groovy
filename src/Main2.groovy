@@ -13,3 +13,4 @@ def password = "spring"
 def body = "password=${password}&username=${username}&grant_type=${grant_type}&scope=${scope}&client_secret=${client_secret}&client_id=${client_id}"
 print body
 print auth
+//test1
